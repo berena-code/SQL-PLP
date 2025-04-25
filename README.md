@@ -84,15 +84,6 @@ project-root/
 
 ---
 
-## 🧭 ERD
-
-Create your ERD using a tool like [dbdiagram.io](https://dbdiagram.io/) or MySQL Workbench.
-
-🖼️ ERD Screenshot: *(insert screenshot here)*  
-📎 ERD Link: *(insert link here)*
-
----
-
 ## 💡 Author Notes
 
 - SQL scripts are clean and well-commented
